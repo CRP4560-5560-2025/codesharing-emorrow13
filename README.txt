@@ -26,7 +26,7 @@ The toolbox is designed and tested using:
 
 - ACS renter data CSV (Test_data/renters_story_county.csv)
 	- Geography (e.g., “Census Tract 1.01”)
-	- Total—Total households—HOUSING TENURE—Renter-occupied housing units—Estimate – renter-occupied households (%)
+	- Total—Total households—HOUSING TENURE—Renter-occupied housing units—Estimate – renter-occupied households
 	- MoE (margin of error %)
 - GeoJSON census tract layer (Test_data/renters_story_county.json)
 	- GEOIDFQ (full census tract identifier)
@@ -63,4 +63,5 @@ How to Run Toolbox
 		- (Total—Total households—HOUSING TENURE—Renter-occupied housing units—Estimate)
 	h. Output Graph PNG
 		- Choose a folder and filename for the bar chart PNG (does not matter where).
+
 4. Run the tool
