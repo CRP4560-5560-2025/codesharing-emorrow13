@@ -63,5 +63,4 @@ How to Run Toolbox
 		- (Total—Total households—HOUSING TENURE—Renter-occupied housing units—Estimate)
 	h. Output Graph PNG
 		- Choose a folder and filename for the bar chart PNG (does not matter where).
-
 4. Run the tool
