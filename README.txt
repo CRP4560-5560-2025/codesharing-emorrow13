@@ -24,11 +24,11 @@ Data Accessed
 
 The toolbox is designed and tested using:
 
-- ACS renter data CSV (Test_data/renters_story_county.csv)
+- ACS renter data CSV (Tract_Data/renters_story_county.csv)
 	- Geography (e.g., “Census Tract 1.01”)
 	- Total—Total households—HOUSING TENURE—Renter-occupied housing units—Estimate – renter-occupied households
 	- MoE (margin of error %)
-- GeoJSON census tract layer (Test_data/renters_story_county.json)
+- GeoJSON census tract layer (Tract_Data/renters_story_county.json)
 	- GEOIDFQ (full census tract identifier)
 	- BASENAME (tract number)
 	- NAME (tract label, e.g., “Census Tract 1.01”)
