@@ -41,11 +41,14 @@ The toolbox is designed and tested using:
 
 How to Run Toolbox
 
-1. Add the toolbox to ArcGIS Pro
-	- In ArcGIS Pro, in the Catalog pane, right-click Toolboxes → Add Toolbox, and browse to the .pyt.
-2. Open the tool
+1. Create new ArcGIS Pro Project
+	- Open ArcGIS Pro.
+	- Start a new project using the Map button (does not matter where project location is).
+2. Add the toolbox to ArcGIS Pro Project
+	- In ArcGIS Pro, in the Catalog pane, right-click Toolboxes → Add Toolbox → browse to script.pyt.
+3. Open the tool
 	- Under the toolbox, double-click “Join GeoJSON to CSV and Plot”.
-3. Fill in the parameters
+4. Fill in the parameters
 	a. Input CSV File
 		- Browse to the CSV file.
 	b. Input GeoJSON File
@@ -63,4 +66,4 @@ How to Run Toolbox
 		- (Total—Total households—HOUSING TENURE—Renter-occupied housing units—Estimate)
 	h. Output Graph PNG
 		- Choose a folder and filename for the bar chart PNG (does not matter where).
-4. Run the tool
+5. Run the tool
